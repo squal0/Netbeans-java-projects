@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SuspectedThreats.jnlp">
+  <information>
+    <title>SuspectedThreats</title>
+    <vendor>Squalo</vendor>
+    <description>Sample JavaFX 2.0 application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.0+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SuspectedThreats.jar" size="24345" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="SuspectedThreats" >
+    <param name="requiredFXVersion" value="2.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="suspectedthreats.SuspectedThreats"  name="SuspectedThreats" />
+  <update check="background"/>
+</jnlp>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <regno> s001</regno>
+        <names>Student 1 </names>
+        <course>Course 1</course>
+        <email>student1@edulink.ac.ke</email>   
+    </student>
+    
+     <student>
+        <regno> s002</regno>
+        <names>Student 2 </names>
+        <course>Course 2</course>
+        <email>student2@edulink.ac.ke</email>   
+    </student>
+    
+     <student>
+        <regno> s003</regno>
+        <names>Student 3 </names>
+        <course>Course 3</course>
+        <email>student3@edulink.ac.ke</email>   
+    </student>
+    
+     <student>
+        <regno> s004</regno>
+        <names>Student 4 </names>
+        <course>Course 4</course>
+        <email>student4@edulink.ac.ke</email>   
+    </student>
+    
+     <student>
+        <regno> s005</regno>
+        <names>Student 5 </names>
+        <course>Course 5</course>
+        <email>student5@edulink.ac.ke</email>   
+    </student>
+      
+</students>
+
+
